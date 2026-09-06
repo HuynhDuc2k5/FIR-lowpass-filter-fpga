@@ -1,4 +1,6 @@
-<h1 align="center">FIR lowpass filter implemetation on FPGA</h1>
+<h1 align="center">
+  
+FIR lowpass filter implemetation on FPGA</h1>
 
 
 This Project include FIR filter using window(Hamming) Method with order = 7 and Fcut =3kHz
