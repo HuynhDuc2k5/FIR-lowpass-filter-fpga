@@ -1,4 +1,5 @@
 <h1 align="center">
+<h2 align="center"> 
   
 FIR lowpass filter implemetation on FPGA</h1>
 
