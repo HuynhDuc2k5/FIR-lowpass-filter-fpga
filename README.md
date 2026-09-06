@@ -8,8 +8,9 @@ This Project include FIR filter using window(Hamming) Method with order = 7 and 
 -fixed point output as Q5.15 signed number
 
 <h2 align="center">
- --------------------------------------Floating point calculation--------------------------------------
-![image alt](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/floatingCalculation.png?raw=true) </h2>
+ --------------------------------------Floating point calculation-------------------------------------- </h2>
+ 
+![image alt](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/floatingCalculation.png?raw=true)
 
 ### --------------------------------------Fixed point calculation--------------------------------------
 ![image alt](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/FixedPointCalculation.png?raw=true)
