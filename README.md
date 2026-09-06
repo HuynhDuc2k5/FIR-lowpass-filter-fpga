@@ -16,6 +16,8 @@ This Project include FIR filter using window(Hamming) Method with order = 7 and 
 
 <h2 align="center">
   Fixed point calculation</h2>
-  
-![image alt](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/FixedPointCalculation.png?raw=true)
+
+<p align="center">
+  <img src="[https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/floatingCalculation.png?raw=true](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/FixedPointCalculation.png?raw=true)" alt="My Image">
+</p>
 
