@@ -1,0 +1,17 @@
+# vsim -c work.Simulation -do "run -all; quit" 
+# Start time: 00:25:00 on Sep 06,2026
+# Loading sv_std.std
+# Loading work.Simulation
+# Loading work.FIR
+# Loading work.LUT
+# Loading work.ShiftRegister
+# Loading work.PlusAccumulator
+# Loading work.pipelineSigned
+# run -all
+# =============================================
+# ==============Done simulation !==============
+# =============================================
+# ** Note: $finish    : simulation.sv(109)
+#    Time: 10325 us  Iteration: 1  Instance: /Simulation
+# End time: 00:25:00 on Sep 06,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

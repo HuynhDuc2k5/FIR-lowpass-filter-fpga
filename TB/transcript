@@ -1,0 +1,19 @@
+# vsim work.TB 
+# Start time: 11:18:40 on Sep 04,2026
+# Loading sv_std.std
+# Loading work.TB
+# Loading work.ShiftRegister
+# Loading work.LUT
+# Loading work.PlusAccumulator
+# Loading work.pipelineSigned
+add wave -position insertpoint  \
+sim:/TB/testAccumulatorB \
+sim:/TB/testAccumulatorA \
+sim:/TB/CLK
+run -all
+# ** Note: $finish    : TB.sv(84)
+#    Time: 565 ps  Iteration: 1  Instance: /TB
+# 1
+# Break in Module TB at TB.sv line 84
+# End time: 11:19:21 on Sep 04,2026, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 0
