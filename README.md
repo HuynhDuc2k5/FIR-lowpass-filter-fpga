@@ -11,7 +11,7 @@ This Project include FIR filter using window(Hamming) Method with order = 7 and 
   Floating point calculation</h2>
   
 <p align="center">
-  <img src="[your-image.png](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/floatingCalculation.png?raw=true)" alt="My Image">
+  <img src="[https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/floatingCalculation.png?raw=true]" alt="My Image">
 </p>
 
 <h2 align="center">
