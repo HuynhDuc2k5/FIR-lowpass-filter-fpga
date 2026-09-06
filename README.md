@@ -6,4 +6,4 @@ This Project include FIR filter using window(Hamming) Method with order = 7 and 
 -Compare between floating number calculation in python and fixed point number calculation in FPGA
 
 -Floating point calculation 
-![image alt]()
+![image alt](https://github.com/HuynhDuc2k5/FIR-lowpass-filter-fpga/blob/main/image/floatingCalculation.png?raw=true)
