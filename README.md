@@ -7,10 +7,6 @@ This Project include FIR filter using window(Hamming) Method with order = 7 and 
 -Compare between floating number calculation in python and fixed point number calculation in FPGA
 -fixed point output as Q5.15 signed number
 
-<h1 align="center">
-  System architecture </h1>
-
-
 <h2 align="center">
   Floating point calculation</h2>
   
